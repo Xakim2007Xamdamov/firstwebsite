@@ -1,0 +1,292 @@
+.ort {
+    margin: 0 auto;
+
+}
+
+body {
+    background-color: #ffffff;
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.jc {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.jc2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+header {
+    width: 1440px;
+    height: 105px;
+    background-color: #f6f6f6;
+    margin: 0 auto;
+    height: 0 auto;
+}
+
+.valuemark {
+    color: #2959CE;
+    font-size: 16px;
+    font-family: Rubik;
+    font-weight: 700;
+}
+
+.valuemark2 {
+    color: #2959CE;
+    font-size: 16px;
+    font-family: Rubik;
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+input {
+    width: 275px;
+    height: 45px;
+    flex-shrink: 0;
+    border-radius: 60px;
+    background: #FFF;
+}
+
+::placeholder {
+    color: #8D8D8D;
+    font-family: Rubik;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.p {
+    color: #000;
+    font-family: Rubik;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.kv {
+    width: 70px;
+    height: 36px;
+    flex-shrink: 0;
+    border-radius: 39px;
+    background: #DCE6FF;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+.img {
+    width: 30px;
+    height: 30px;
+    flex-shrink: 0;
+    background-color: #FFF;
+    border-radius: 100%;
+    /* margin-top: 15px; */
+    margin-top: 3px;
+    /* margin-left: 50px; */
+}
+
+.p {
+    margin-bottom: 10px;
+}
+
+.but {
+    display: flex;
+    width: 89px;
+    padding: 13px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+    background: #7296EC;
+    height: 50px;
+    margin-left: 50px;
+    border: none;
+}
+
+.p2 {
+    color: #FFF;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+p {
+    color: #A6A6A6;
+    font-family: Rubik;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.cont2 {
+    margin-left: 50px;
+}
+
+.p3 {
+    margin: 18.5px;
+    color: #7F7F7F;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.cont5 {
+    margin-left: 95px;
+    width: 1220px;
+}
+
+.chiziq {
+    border-bottom: 3px solid #d1d1d1;
+    width: 1220px;
+    margin-left: 110px;
+}
+
+.button {
+    border-radius: 10px;
+    border: none;
+}
+
+.img2 {
+    margin-left: 110px;
+    width: 1220px;
+}
+
+.fl {
+    display: flex;
+}
+
+.cont6 {
+    height: auto;
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.k {
+    margin-left: 110px;
+    background-color: #f6f6f6;
+    border-radius: 10px;
+}
+
+.k1 {
+    margin-top: 60px;
+    margin-left: 110px;
+    margin-bottom: 35px;
+    background-color: #f6f6f6;
+    border-radius: 10px;
+}
+
+.k2 {
+    margin-top: 60px;
+    margin-left: 70px;
+    margin-bottom: 35px;
+    background-color: #f6f6f6;
+    border-radius: 10px;
+}
+
+.bt {
+    width: 710px;
+    height: 100px;
+    margin: auto;
+    background: rgb(255, 202, 182);
+    border-radius: 10px;
+}
+
+.button {
+    width: 200px;
+    height: 45px;
+    background-color: rgb(41, 155, 254);
+    margin: auto;
+}
+
+.fnt {
+    margin: auto;
+    font-size: 20px;
+}
+
+.g {
+    width: 797px;
+    height: 205px;
+    background-color: #f6f6f6;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+
+.b {
+    border-bottom: 1px solid grey;
+    margin-left: 15px;
+}
+
+.гл {
+    width: 393px;
+    height: 502px;
+    border-radius: 15px;
+    background: #F6F6F6;
+    margin-left: 25px;
+}
+
+.huy {
+    margin-left: 15px;
+}
+
+.gmi {
+    margin-top: 55px;
+    margin-left: 25px;
+}
+
+.ton {
+    width: 797px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 25px;
+}
+
+.mun {
+    margin-left: 110px;
+}
+
+footer {
+    background: #7296EC;
+    width: 1440px;
+    height: 356px;
+    margin: auto;
+    color: #FFF;
+}
+
+.n24 {
+    width: 998px;
+    margin-left: 221px;
+    border-top: 1px solid grey;
+}
+
+.ic {
+    font-size: 25px;
+}
+.ic1 {
+    margin-top: 25px;
+    margin-left: 485px;
+}
+
+.ic2 {
+    margin-left: 221px;
+}
+
+.ic3 {
+    margin-left: 103px;
+    margin-right: 100px;
+}

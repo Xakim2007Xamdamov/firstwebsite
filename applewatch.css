@@ -1,0 +1,149 @@
+header {
+    width: 1250px;
+    height: 75px;
+    margin: auto;
+}
+
+.fl {
+    display: flex;
+}
+
+.clbl {
+    color: grey;
+}
+
+.c1 {
+    height: 90px;
+    margin-top: 20px;
+    border-left: 3px solid grey;
+    border-radius: 15px;
+}
+
+.c2 {
+    margin-left: 15px;
+}
+
+.c3 {
+    height: 105px;
+    margin-bottom: -115px;
+    border-left: 3px solid grey;
+}
+
+.a,
+.a1 {
+    text-decoration: none;
+    margin-left: 5px;
+    margin-top: 52px;
+}
+
+.mr {
+    margin-left: 65px;
+}
+
+.head {
+    margin-top: 12px;
+}
+
+.logo {
+    margin-right: 765px;
+}
+
+.a1 {
+
+    border-bottom: 1px solid grey;
+}
+
+.chiziq {
+    margin-top: 25px;
+    border-left: 3px solid rgb(0, 0, 0);
+}
+
+main {
+    width: 1250px;
+    height: auto;
+    margin: auto;
+    margin-bottom: 75px;
+}
+
+.img {
+    width: 587px;
+    height: 565px;
+}
+
+footer {
+    margin: auto;
+    width: 1440px;
+    height: 350px;
+    color: #fff;
+}
+
+.watch {
+    margin-top: 150px;
+    margin-left: 65px;
+    margin-right: 175px;
+}
+
+.section1 {
+    width: 1250px;
+}
+
+.mar {
+    margin: auto;
+    margin-top: 150px;
+}
+
+.fnt {
+    font-size: 60px;
+}
+
+.fnt1 {
+    font-size: 25px;
+}
+
+.mar2 {
+    margin-top: 75px;
+    margin-left: 45px;
+}
+
+.tx {
+    color: #fff;
+    text-decoration: none;
+}
+
+button {
+    width: 260px;
+    height: 51px;
+    margin-top: 25px;
+    border: none;
+    background-color: #C9514C;
+    color: #fff;
+}
+
+.fnt2 {
+    font-size: 15px;
+}
+
+.a45 {
+    width: 260px;
+    height: 51px;
+    margin-top: 25px;
+    border: none;
+    background-color: #C9514C;
+    color: #fff;
+}
+
+.mgi1 {
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+footer {
+    margin: auto;
+    width: 1250px;
+    height: auto;
+}
+
+.matn {
+    margin-top: -625px;
+    margin-left: 625px;
+}

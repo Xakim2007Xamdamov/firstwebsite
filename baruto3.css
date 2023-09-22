@@ -1,0 +1,429 @@
+header {
+    width: 1440px;
+    height: 100px;
+    display: flex;
+    margin: 0 auto;
+}
+
+main {
+    width: 1440px;
+    height: 5000px;
+    margin: 0 auto;
+}
+
+.ful {
+    color: rgb(67, 214, 18);
+    margin-top: 15px;
+}
+
+.ful1 {
+    margin-top: -33px;
+}
+
+.fil {
+    margin-top: 25px;
+}
+
+.a {
+    font-size: x-large;
+    color: black;
+    margin: 25px;
+    text-decoration: none;
+}
+
+.icon {
+    height: 50px;
+    width: 80px;
+    margin-top: 15px;
+    text-align: center;
+    color: rgb(67, 214, 18);
+}
+
+.telefon {
+    display: flex;
+    margin-top: 20px;
+}
+
+.header {
+    width: 1540px;
+    height: 750px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.matn {
+    margin-left: 50px
+}
+
+span {
+    color: rgb(67, 214, 18);
+
+}
+
+.chiziq {
+    
+    border-bottom: 3px double;
+}
+
+button {
+    height: 40px;
+    width: 200px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: aliceblue;
+    background: rgb(67, 214, 18);
+    border-radius: 3px;
+    border: rgb(67, 214, 18);
+
+}
+
+.kv {
+    display: flex;
+}
+
+.kv1 {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    box-shadow: 5px 5px hsla(105, 84%, 45%, 0.08);
+}
+
+.photo {
+    margin-left: 350px;
+}
+
+.p {
+    margin-top: -20px;
+}
+
+.img {
+    display: flex;
+    margin: 10px;
+}
+
+.img1 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+
+.img3 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    border-top-right-radius: 100%;
+    border-bottom-right-radius: 100%;
+}
+
+.img2 {
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    border-radius: 50%;
+}
+
+.dum {
+    width: 43px;
+    height: 43px;
+    border-radius: 50%;
+    background-color: rgb(0, 139, 125);
+    margin-top: 170px;
+    margin-left: 170px;
+}
+
+.dum2 {
+    width: 43px;
+    height: 43px;
+    border-radius: 50%;
+    background-color: rgb(139, 83, 0);
+    margin-left: 150px;
+}
+
+.dum3 {
+    width: 43px;
+    height: 43px;
+    border-radius: 50%;
+    background-color: rgb(28, 0, 139);
+    margin-left: 150px;
+}
+
+.dum1 {
+    width: 43px;
+    height: 43px;
+    border-radius: 50%;
+    background-color: rgb(139, 0, 32);
+    margin-top: 170px;
+    margin-left: -20px;
+}
+
+.main {
+    margin: 0 auto;
+    width: 1440px;
+    height: 1360px;
+    margin-top: -250px;
+}
+
+.kurs {
+    margin-left: 500px;
+    color: rgb(67, 214, 18);
+
+}
+
+.kurslar2 {
+    margin-left: 300px;
+}
+
+.fl {
+    display: flex;
+    margin: auto;
+    margin-left: -20px;
+}
+
+.com {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(248, 215, 250);
+    margin: 50px;
+    border-radius: 10px;
+}
+
+.v {
+    text-align: center;
+    position: relative;
+    top: 40px;
+}
+
+.com1 {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    margin-top: 45px;
+    margin-left: 75px;
+    border-radius: 10px;
+}
+
+.oylabkoring {
+    width: 1440px;
+    height: 750px;
+    margin: 0 auto;
+}
+
+.cl {
+    color: rgb(67, 214, 18);
+}
+
+.qat {
+    margin-left: 100px;
+}
+
+.main2 {
+    width: 1440px;
+    height: 500px;
+    margin: auto;
+    margin-top: -300px;
+}
+
+.main3 {
+    width: 1440px;
+    height: 700px;
+    margin: auto;
+}
+
+.ul {
+    font-size: 50px;
+    margin-bottom: 100px;
+    margin-left: 35px;
+}
+
+.v1 {
+    text-align: left;
+    top: 60px;
+}
+
+.com3 {
+    width: 400px;
+    height: 160px;
+    background-color: rgb(248, 215, 250);
+    margin: 50px;
+    border-radius: 10px;
+}
+
+.main4 {
+    width: 1440px;
+    height: 500px;
+    margin: auto;
+}
+
+.mg {
+    width: 650px;
+    height: 350px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    margin: 30px;
+}
+
+img {
+    width: 90px;
+    height: 90px;
+    border-radius: 100%;
+    margin-left: 30px;
+    margin: 10px;
+    margin-left: 30px;
+}
+
+.hu {
+    margin-top: -20px;
+}
+
+.tx {
+    text-align: center;
+    font-size: 60px;
+}
+
+.lf {
+    margin-left: 70px;
+}
+
+.wr {
+    width: 200px;
+    height: 80px;
+    background: violet;
+    margin: 60px;
+    border-radius: 10px;
+}
+
+.wr1 {
+    width: 50px;
+    height: 20px;
+    background: rgb(130, 152, 238);
+    margin-top: 30px;
+    margin-left: 75px;
+}
+
+footer {
+    width: 1440px;
+    height: 1050px;
+    background-color: #1D4245;
+    margin: 0 auto;
+}
+
+.footer {
+    color: aliceblue;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.kod {
+    width: 1100px;
+    height: 171px;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 60px;
+}
+
+#parol {
+    width: 250px;
+    height: 48px;
+    border-radius: 10px;
+    background-color: rgb(195, 195, 195);
+    margin-top: 62px;
+    margin-left: 30px;
+    margin-right: 50px;
+}
+
+.tarmoq {
+    border-top: 1px solid rgba(255, 255, 255, 0.272);
+    text-align: end;
+    padding-right: 50px;
+    font-size: 20px;
+}
+
+.btn {
+    margin-top: 40px;
+    margin: 40px;
+}
+
+input {
+    width: 200px;
+    height: 48px;
+    border-radius: 10px;
+    background-color: rgb(195, 195, 195);
+    margin-left: 50px;
+    margin-top: -20px;
+    margin: auto;
+}
+
+.log {
+    margin-top: 45px;
+}
+
+.parol {
+
+    margin-top: -20px;
+}
+
+.ful {
+    color: rgb(67, 214, 18);
+    margin-top: 15px;
+}
+
+.ful2,
+.ful3 {
+    color: rgb(67, 214, 18);
+    margin-left: 69px;
+}
+
+.ic {
+    width: 200px;
+    height: 5px;
+}
+
+.fq {
+    color: #000;
+}
+
+.bro {
+    margin: 50px;
+}
+
+.log1 {
+    width: 500px;
+    height: 450px;
+    background-color: #2e8c934e;
+    border-radius: 10px;
+    margin-left: 69px;
+}
+
+.br {
+    width: 500px;
+    height: 450px;
+    margin-top: -60px;
+    color: #fff;
+}
+
+.c {
+    margin-left: 70px;
+    margin-top: -10px;
+}
+.qoshma{
+    width: 230px;
+    height: 48px;
+    margin-top: 60px;
+    border:1px solid #000;
+    border-radius: 10px;
+    background-color: rgb(195, 195, 195);
+}
+select{
+    margin-left: -25px;
+}
+.fnt{
+    font-size: 60px;
+}

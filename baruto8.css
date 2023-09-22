@@ -1,0 +1,130 @@
+header {
+    width: 1440px;
+    height: 100px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.ful1 {
+    margin-top: -33px;
+}
+
+.ful {
+    color: rgb(67, 214, 18);
+    margin-top: 15px;
+}
+
+.a {
+    font-size: x-large;
+    color: black;
+    margin: 25px;
+    text-decoration: none;
+}
+
+.icon {
+    height: 50px;
+    width: 80px;
+    margin-top: 15px;
+    text-align: center;
+    color: rgb(67, 214, 18);
+}
+
+.telefon {
+    display: flex;
+    margin-top: 20px;
+}
+
+.fil {
+    margin-top: 25px;
+}
+
+span {
+    color: rgb(67, 214, 18);
+
+}
+
+.chiziq {
+    border-bottom: 3px double;
+}
+
+.fl {
+    display: flex;
+}
+
+.cl {
+    color: rgb(67, 214, 18);
+}
+
+.cl2 {
+    color: #1D4245;
+}
+button {
+    height: 40px;
+    width: 200px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: aliceblue;
+    background: rgb(67, 214, 18);
+    border-radius: 3px;
+    border: rgb(67, 214, 18);
+
+}
+
+.fnt {
+    font-size: 25px;
+}
+
+.Xalqaro {
+    width: 500px;
+    height: 450px;
+}
+.mr {
+    width: 1440px;
+    height: 520px;
+    margin: 0 auto;
+}
+
+main {
+    width: 1440px;
+    height: 5000px;
+    margin: 0 auto;
+}
+
+.p {
+    font-size: 20px;
+    margin: 50px;
+}
+
+.z {
+    width: 500px;
+    height: 150px;
+    margin: 0 auto;
+}
+.div {
+    width: 200px;
+    height: 100px;
+    margin-left: 150px;
+}
+.p2 {
+    width: 700px;
+    height: 45px;
+    font-size: 20px;
+    margin-top: 60px;
+    margin: 50px;
+    border-left: 3px double;
+    border-color: rgb(67, 214, 18);
+    margin-left: 300px;
+}
+.p3{
+    width: 700px;
+    height: 95px;
+    font-size: 20px;
+    margin-top: 60px;
+    margin: 50px;
+    border-left: 3px double;
+    border-color: rgb(67, 214, 18);
+    margin-left: 300px;
+}
+.fnt1 {
+    font-size: 50px;
+}
